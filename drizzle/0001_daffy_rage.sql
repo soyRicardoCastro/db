@@ -1,0 +1,1 @@
+ALTER TABLE "products" ALTER COLUMN "fecha_creacion" SET DEFAULT now();

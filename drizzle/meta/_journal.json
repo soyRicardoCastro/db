@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1694952498384,
+      "tag": "0000_aspiring_riptide",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1694955348090,
+      "tag": "0001_daffy_rage",
+      "breakpoints": true
+    }
+  ]
+}
